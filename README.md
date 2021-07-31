@@ -44,7 +44,7 @@ BUILD SUCCESSFUL in 24s
 
 ## Runnable Jar
 
-Add jar task on _build.gradle_ file:
+Add jar task on _app/build.gradle_ file:
 
 ```
 jar {
